@@ -1,0 +1,52 @@
+body{
+  text-align: center;
+  background: #000;
+}
+
+input{
+  width: 40%;
+  border: 2px solid #fff;
+  color: #fff;
+  background: none;
+  font-size: 26px;
+  padding: 8px;
+  margin: 10px auto;
+}
+
+button{
+  border: 2px solid #fff;
+  background: none;
+  font-size: 24px;
+  margin: 8px auto;
+  color: #fff;
+  padding: 8px 15px;
+}
+
+table{
+  width: 90%;
+  border: 1px solid #fff;
+  margin: 10px auto;
+  overflow: auto;
+  display: block;
+  padding: 5px;
+  border-collapse: collapse;
+}
+
+td{
+  border: 1px solid #fff;
+  font-size: 25px;
+  padding: 5px 8px;
+  min-width: 30px;
+  text-align: center;
+}
+
+tr:nth-child(2){
+  color: red;
+}
+tr:nth-child(1){
+  color: #fff;
+}
+
+tr:nth-child(3){
+  color: dodgerblue;
+}
