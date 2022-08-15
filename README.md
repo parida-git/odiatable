@@ -1,2 +1,1 @@
-# odiatable
-Generate Tables in odia language
+Generate mulplication tables in odia language. <a href="https://parida-git.github.com">Click here</a> to access this repo's website. <a href="https://en.m.wikipedia.org/wiki/Odia_language">Visit wikipedia page</a> to know more about odia language. 
